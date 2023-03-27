@@ -7,7 +7,7 @@
 
 <h2>2. Hafta</h2>
 <ul>
-  <li>Araştırma sonucu gerekli olan malzemelerin belirlenmesi ve tedariği</li>
+  <li>Araştırma sonucu gerekli olan malzemelerin belirlenmesi ve tedarik</li>
 </ul>
 <h2>3. Hafta</h2>
 <ul>
