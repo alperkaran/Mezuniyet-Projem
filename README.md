@@ -15,7 +15,7 @@
 </ul>
 <h2>4. Hafta</h2>
 <ul>
-  <li>a</li>
+  <li>Devre Tasarımı ve Arduino uygulamasındaki gerekli kütüphanelerin kurulumu</li>
 </ul>
 <h2>5. Hafta</h2>
 <ul>
@@ -23,13 +23,13 @@
 </ul>
 <h2>6. Hafta</h2>
 <ul>
-  <li>a</li>
+  <li>Kod yazma</li>
 </ul>
 <h2>7. Hafta</h2>
 <ul>
-  <li>a</li>
+  <li>Kod Yazma</li>
 </ul>
 <h2>8. Hafta</h2>
 <ul>
-  <li>a</li>
+  <li>Proje raporu hazırlama</li>
 </ul>
