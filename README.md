@@ -11,7 +11,7 @@
 </ul>
 <h2>3. Hafta</h2>
 <ul>
-  <li>a</li>
+  <li>Arduino program kurulumu</li>
 </ul>
 <h2>4. Hafta</h2>
 <ul>
