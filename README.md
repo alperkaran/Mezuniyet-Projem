@@ -1,5 +1,5 @@
 # Mezuniyet-Projem
-<h3>NodeMCU geliştirme kartı ile kripto para takip sistemi: </h3></br> //Önceki Haftalardaki Kayıtları İzle Listeyi Güncelle
+<h3>NodeMCU geliştirme kartı ile kripto para takip sistemi: </h3></br> <!-- Önceki Haftalardaki Kayıtları İzle Listeyi Güncelle -->
 <h2>1. Hafta</h2>
 <ul>
   <li>Konuya ilişkin araştırmanın yapılması</li>
