@@ -19,7 +19,7 @@
 </ul>
 <h2>5. Hafta</h2>
 <ul>
-  <li>a</li>
+  <li>Ekran Testi</li>
 </ul>
 <h2>6. Hafta</h2>
 <ul>
