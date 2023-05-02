@@ -19,7 +19,7 @@
 </ul>
 <h2>5. Hafta</h2>
 <ul>
-  <li>Ekran Testi</li>
+  <li>Devre elemanlarının bağlantıları ve ekran testi</li>
 </ul>
 <h2>6. Hafta</h2>
 <ul>
