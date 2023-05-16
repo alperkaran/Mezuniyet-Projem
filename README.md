@@ -31,5 +31,15 @@
 </ul>
 <h2>8. Hafta</h2>
 <ul>
+  <li>Kod Yazma</li>
+</ul>
+<h2>9. Hafta</h2>
+<ul>
+  <li>Kodun son hali ve testi</li>
+</ul>
+</ul>
+<h2>9. Hafta</h2>
+<ul>
   <li>Proje raporunu hazırlama</li>
 </ul>
+
