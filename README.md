@@ -31,5 +31,5 @@
 </ul>
 <h2>8. Hafta</h2>
 <ul>
-  <li>Proje raporu hazırlama</li>
+  <li>Proje raporunu hazırlama</li>
 </ul>
