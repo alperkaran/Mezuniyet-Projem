@@ -35,7 +35,7 @@
 </ul>
 <h2>9. Hafta</h2>
 <ul>
-  <li>Kodun son hali ve test</li>
+  <li>Kodun son hali ve test</li> <!--Proje son haline geldi sayılır eklemeler yapabilirim-->
 </ul>
 <h2>10. Hafta</h2>
 <ul>
