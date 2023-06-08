@@ -39,6 +39,6 @@
 </ul>
 <h2>10. Hafta</h2>
 <ul>
-  <li>Proje raporunun hazırlanması ve proje bitişi</li> <!--Projem bitti, raporumu sınavlardan sonra teslim tarihinden önce hazırlayacağım-->
+  <li>Proje raporunun hazırlanması ve proje bitişi</li> <!--Projem bitti, bugün içinde proje linkimi göndericem-->
 </ul>
 
